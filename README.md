@@ -21,7 +21,7 @@
 </details>
 
 ## About The Project
-This project implements a `generative-adverserial neural network` with `PyTorch` and uses the `MNIST` and `AnimeFace` Dataset as a training and testing model. 
+This project implements `generative-adverserial neural networks` with `PyTorch` and uses the `MNIST` and `AnimeFace` dataset for a training and testing model. 
 
 
 ## Phases  
