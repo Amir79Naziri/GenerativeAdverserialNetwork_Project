@@ -29,6 +29,9 @@ This project implements `generative-adverserial neural networks` with `PyTorch` 
 <h3 id="Phase1">Implement Model for MNIST dataset</h3>  
 
 In this phase networks are designed for `MNIST` dataset. All further information about architecture of models and results are saved in the notebook.
+an image which is created by results of generator network every epoch.  
+
+![Example Run](./mnist-result.png)
 
 <h3 id="Phase2">Implement Model for AnimeFace dataset</h3>  
   
