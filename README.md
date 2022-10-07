@@ -30,7 +30,7 @@ This project implements `generative-adverserial neural networks` with `PyTorch` 
 
 In this phase networks are designed for `MNIST` dataset. All further information about architecture of models and results are saved in the notebook.  
 
-an image which is created by results of generator network every epoch.  
+##### image which is created by results of generator network every epoch.  
 
 ![Example Run](./mnist-result.png)
 
@@ -38,7 +38,7 @@ an image which is created by results of generator network every epoch.
   
 In this phase networks are designed for `AnimeFace` dataset. All further information about architecture of models and results are saved in the notebook.  
 
-a video which is created by results of generator network every epoch.  
+##### video which is created by results of generator network every epoch.  
 
 ![Example Run](./gans_training.gif)
 
