@@ -48,5 +48,7 @@ In this phase networks are designed for `AnimeFace` dataset. All further informa
 [Amirreza Naziri](https://github.com/Amir79Naziri)  
 Email: naziriamirreza@gmail.com  
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
