@@ -23,18 +23,16 @@
 ## About The Project
 This project implements a `generative-adverserial neural network` with `PyTorch` and uses the `MNIST` and `AnimeFace` Dataset as a training and testing model. 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 ## Phases  
 
-<h3 id="Phase1">Impelent Model for MNIST dataset</h3>  
+<h3 id="Phase1">Implement Model for MNIST dataset</h3>  
 
-In this phase data is transformed from images into vectors, at beginning feature extraction reads all images and with the use of `histogram` function and number of 360 `bins`, images are transformed into vectors, then features with specific `standard deviation` are deleted, and finally, data is ready!  
+In this phase networks are designed for `MNIST` dataset. All further information about architecture of models and results are saved in the notebook.
 
-<h3 id="Phase2">Impelent Model for AnimeFace dataset</h3>  
+<h3 id="Phase2">Implement Model for AnimeFace dataset</h3>  
   
-In this phase `forward function` is implemented and weights and biases are initialized, also the test function is implemented for testing the `accuracy` of the model. As `activation function`, this model uses `sigmoid` for all layers.  
+In this phase networks are designed for `AnimeFace` dataset. All further information about architecture of models and results are saved in the notebook.  
 
 
 
@@ -42,5 +40,5 @@ In this phase `forward function` is implemented and weights and biases are initi
 [Amirreza Naziri](https://github.com/Amir79Naziri)  
 Email: naziriamirreza@gmail.com  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
